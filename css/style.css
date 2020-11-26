@@ -104,6 +104,7 @@ body{
 .name span:nth-of-type(20) {
 	animation-delay: 1.9s;
 }
+
 .name span {
     display: inline-block;
 	opacity: 0;
